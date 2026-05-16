@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:DPTPhatUS/backend.git
+	url = git@github.com:DPTPhatUS/career-engine-backend.git
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:DPTPhatUS/career-engine-frontend.git
