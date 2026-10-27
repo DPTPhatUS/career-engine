@@ -1,6 +1,6 @@
 # Career Engine
 
-Career Engine is the parent repository for the backend and frontend apps.
+Career Engine helps you organize your professional profile, education, projects, and target jobs in one place. Build tailored resumes using your career information and portfolio highlights.
 
 ## Clone
 
