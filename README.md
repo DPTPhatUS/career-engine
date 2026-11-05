@@ -6,6 +6,8 @@ Career Engine gives developers one place to organize their career information, a
 
 [Get started](#run-locally) · [Explore the product](#see-it-in-action) · [Follow a workflow](#from-github-to-a-shareable-portfolio) · [System architecture](#system-architecture)
 
+**Ready to host it?** Follow the [single-VPS deployment guide](docs/DEPLOYMENT.md) for Docker Compose, automatic HTTPS, Google sign-in, and database backups.
+
 ![Career Engine dashboard with career information counts and shortcuts to resumes, profile, education, companies, jobs, and projects](docs/screenshots/dashboard.png)
 
 *Screenshots show the current app with fictional demo data and mocked API responses. The dashboard's profile-strength and resume-view figures are UI placeholders.*
